@@ -1,0 +1,14 @@
+/* Given two integers a and b, your task is to calculate and print the following four values:-
+a+b
+a-b
+a*b
+a/b
+*/
+static void Operators(int a,int b){
+    System.out.println(a+b);
+    System.out.println(a-b);
+    System.out.println(a*b);
+    System.out.println(a/b);
+
+//Enter your code here
+}
